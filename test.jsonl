@@ -1,0 +1,10 @@
+{"id": "q1", "input": "What is the leave policy?", "expected": "14 days annual leave"}
+{"id": "q2", "input": "Who approves travel claims?", "expected": "Direct manager"}
+{"id": "q3", "input": "What is the leave policy?", "expected": "15 days annual leave"} 
+{"id": "q4", "input": "Who approves travel claims?", "expected": "HR manager"} 
+{"id": "q5", "input": "What is the dress code?", "expected": "Formal attire"} 
+{"id": "q6", "input": "Tell me about bonuses", "expected": "Performance based bonus"} 
+{"id": "q7", "input": "What is the leave policy?", "expected": "14 days"} 
+{"id": "q8", "input": "Who approves travel claims?", "expected": "direct manager "} 
+{"id": "q9", "input": "Random question", "expected": ""} 
+{"id": "q10", "input": "", "expected": "Unknown"}
